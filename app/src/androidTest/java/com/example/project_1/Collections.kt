@@ -8,7 +8,9 @@ package com.example.project_1
 
 fun ContohList() {
     println(" === List === ")
-}
 // List Read-Only
-    val read0nlyAbjad = list0f("A", "B", "C")
+val readOnlyAbjad = listOf ("A", "B", "C" )
     println(readOnlyAbjad)
+
+}
+
